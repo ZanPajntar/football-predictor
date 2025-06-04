@@ -1,0 +1,3 @@
+cd C:\projekti\premier_scraper
+.\venv\Scripts\Activate.ps1    # (venv) v promptu
+python scrape_pl_24_25.py

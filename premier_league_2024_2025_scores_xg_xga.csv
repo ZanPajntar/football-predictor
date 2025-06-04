@@ -1,0 +1,381 @@
+home_team,away_team,home_goals,away_goals,home_xG,away_xG,home_xGA,away_xGA
+Manchester Utd,Fulham,1,0,2.4,0.4,0.4,2.4
+Ipswich Town,Liverpool,0,2,0.5,2.6,2.6,0.5
+Newcastle Utd,Southampton,1,0,0.3,1.8,1.8,0.3
+Everton,Brighton,0,3,0.5,1.4,1.4,0.5
+Nott'ham Forest,Bournemouth,1,1,1.3,1.2,1.2,1.3
+Arsenal,Wolves,2,0,1.2,0.5,0.5,1.2
+West Ham,Aston Villa,1,2,2.3,2.0,2.0,2.3
+Brentford,Crystal Palace,2,1,1.6,1.2,1.2,1.6
+Chelsea,Manchester City,0,2,1.0,0.8,0.8,1.0
+Leicester City,Tottenham,1,1,1.0,1.2,1.2,1.0
+Brighton,Manchester Utd,2,1,2.1,1.4,1.4,2.1
+Manchester City,Ipswich Town,4,1,3.3,0.3,0.3,3.3
+Southampton,Nott'ham Forest,0,1,0.1,2.2,2.2,0.1
+Tottenham,Everton,4,0,2.4,1.0,1.0,2.4
+Fulham,Leicester City,2,1,1.8,0.6,0.6,1.8
+Crystal Palace,West Ham,0,2,1.3,1.4,1.4,1.3
+Aston Villa,Arsenal,0,2,1.2,0.9,0.9,1.2
+Wolves,Chelsea,2,6,1.9,1.6,1.6,1.9
+Bournemouth,Newcastle Utd,1,1,2.2,1.6,1.6,2.2
+Liverpool,Brentford,2,0,2.5,0.5,0.5,2.5
+Arsenal,Brighton,1,1,2.1,1.7,1.7,2.1
+Ipswich Town,Fulham,1,1,0.4,0.9,0.9,0.4
+Nott'ham Forest,Wolves,1,1,1.0,0.7,0.7,1.0
+Brentford,Southampton,3,1,2.8,1.5,1.5,2.8
+Leicester City,Aston Villa,1,2,0.4,1.4,1.4,0.4
+Everton,Bournemouth,2,3,1.8,2.4,2.4,1.8
+West Ham,Manchester City,1,3,0.7,3.0,3.0,0.7
+Newcastle Utd,Tottenham,2,1,1.8,1.2,1.2,1.8
+Chelsea,Crystal Palace,1,1,2.4,0.5,0.5,2.4
+Manchester Utd,Liverpool,0,3,1.4,1.8,1.8,1.4
+Southampton,Manchester Utd,0,3,1.1,2.6,2.6,1.1
+Manchester City,Brentford,2,1,2.1,1.0,1.0,2.1
+Liverpool,Nott'ham Forest,0,1,0.9,0.4,0.4,0.9
+Crystal Palace,Leicester City,2,2,2.5,1.2,1.2,2.5
+Fulham,West Ham,1,1,1.5,0.8,0.8,1.5
+Brighton,Ipswich Town,0,0,1.6,0.3,0.3,1.6
+Aston Villa,Everton,3,2,2.1,0.9,0.9,2.1
+Bournemouth,Chelsea,0,1,1.7,0.8,0.8,1.7
+Tottenham,Arsenal,0,1,0.7,0.7,0.7,0.7
+Wolves,Newcastle Utd,1,2,1.2,1.5,1.5,1.2
+West Ham,Chelsea,0,3,0.9,2.2,2.2,0.9
+Tottenham,Brentford,3,1,3.5,0.8,0.8,3.5
+Aston Villa,Wolves,3,1,1.7,0.5,0.5,1.7
+Fulham,Newcastle Utd,3,1,2.2,1.5,1.5,2.2
+Southampton,Ipswich Town,1,1,2.4,1.6,1.6,2.4
+Leicester City,Everton,1,1,0.7,1.1,1.1,0.7
+Liverpool,Bournemouth,3,0,2.0,1.1,1.1,2.0
+Crystal Palace,Manchester Utd,0,0,1.0,1.6,1.6,1.0
+Brighton,Nott'ham Forest,2,2,1.0,1.4,1.4,1.0
+Manchester City,Arsenal,2,2,2.1,0.7,0.7,2.1
+Newcastle Utd,Manchester City,1,1,1.6,0.9,0.9,1.6
+Brentford,West Ham,1,1,0.4,1.0,1.0,0.4
+Everton,Crystal Palace,2,1,0.9,0.9,0.9,0.9
+Arsenal,Leicester City,4,2,4.4,0.3,0.3,4.4
+Chelsea,Brighton,4,2,4.2,1.1,1.1,4.2
+Nott'ham Forest,Fulham,0,1,0.8,1.3,1.3,0.8
+Wolves,Liverpool,1,2,0.6,2.5,2.5,0.6
+Ipswich Town,Aston Villa,2,2,1.2,0.8,0.8,1.2
+Manchester Utd,Tottenham,0,3,1.0,4.4,4.4,1.0
+Bournemouth,Southampton,3,1,1.3,0.6,0.6,1.3
+Crystal Palace,Liverpool,0,1,0.6,1.4,1.4,0.6
+Brentford,Wolves,5,3,4.2,1.0,1.0,4.2
+Leicester City,Bournemouth,1,0,0.8,2.1,2.1,0.8
+Manchester City,Fulham,3,2,1.6,2.6,2.6,1.6
+West Ham,Ipswich Town,4,1,3.6,0.6,0.6,3.6
+Arsenal,Southampton,3,1,2.8,0.6,0.6,2.8
+Everton,Newcastle Utd,0,0,0.7,2.1,2.1,0.7
+Aston Villa,Manchester Utd,0,0,0.5,0.6,0.6,0.5
+Chelsea,Nott'ham Forest,1,1,2.3,0.9,0.9,2.3
+Brighton,Tottenham,3,2,1.8,1.3,1.3,1.8
+Tottenham,West Ham,4,1,1.9,0.8,0.8,1.9
+Fulham,Aston Villa,1,3,1.8,1.6,1.6,1.8
+Ipswich Town,Everton,0,2,1.3,1.7,1.7,1.3
+Southampton,Leicester City,2,3,2.1,3.1,3.1,2.1
+Manchester Utd,Brentford,2,1,1.3,0.9,0.9,1.3
+Newcastle Utd,Brighton,0,1,2.0,1.1,1.1,2.0
+Bournemouth,Arsenal,2,0,1.8,0.7,0.7,1.8
+Wolves,Manchester City,1,2,0.8,1.6,1.6,0.8
+Liverpool,Chelsea,2,1,1.9,1.0,1.0,1.9
+Nott'ham Forest,Crystal Palace,1,0,1.7,1.0,1.0,1.7
+Leicester City,Nott'ham Forest,1,3,0.8,1.7,1.7,0.8
+Brighton,Wolves,2,2,1.3,1.3,1.3,1.3
+Manchester City,Southampton,1,0,2.9,0.2,0.2,2.9
+Brentford,Ipswich Town,4,3,4.0,1.3,1.3,4.0
+Aston Villa,Bournemouth,1,1,1.8,0.3,0.3,1.8
+Everton,Fulham,1,1,0.8,1.2,1.2,0.8
+West Ham,Manchester Utd,2,1,2.8,2.3,2.3,2.8
+Chelsea,Newcastle Utd,2,1,1.6,1.8,1.8,1.6
+Crystal Palace,Tottenham,1,0,0.8,0.7,0.7,0.8
+Arsenal,Liverpool,2,2,0.9,0.8,0.8,0.9
+Newcastle Utd,Arsenal,1,0,0.5,1.1,1.1,0.5
+Liverpool,Brighton,2,1,1.6,1.0,1.0,1.6
+Southampton,Everton,1,0,0.7,1.6,1.6,0.7
+Nott'ham Forest,West Ham,3,0,2.2,0.1,0.1,2.2
+Ipswich Town,Leicester City,1,1,1.0,1.5,1.5,1.0
+Bournemouth,Manchester City,2,1,2.0,1.6,1.6,2.0
+Wolves,Crystal Palace,2,2,1.5,2.4,2.4,1.5
+Tottenham,Aston Villa,4,1,2.4,1.8,1.8,2.4
+Manchester Utd,Chelsea,1,1,2.0,1.1,1.1,2.0
+Fulham,Brentford,2,1,1.3,0.6,0.6,1.3
+West Ham,Everton,0,0,0.8,1.1,1.1,0.8
+Crystal Palace,Fulham,0,2,1.5,1.8,1.8,1.5
+Wolves,Southampton,2,0,1.3,0.6,0.6,1.3
+Brentford,Bournemouth,3,2,1.5,2.6,2.6,1.5
+Brighton,Manchester City,2,1,2.3,2.1,2.1,2.3
+Liverpool,Aston Villa,2,0,2.0,1.2,1.2,2.0
+Tottenham,Ipswich Town,1,2,1.5,1.6,1.6,1.5
+Nott'ham Forest,Newcastle Utd,1,3,0.6,1.6,1.6,0.6
+Manchester Utd,Leicester City,3,0,0.8,0.6,0.6,0.8
+Chelsea,Arsenal,1,1,1.5,1.5,1.5,1.5
+Leicester City,Chelsea,1,2,1.1,2.7,2.7,1.1
+Aston Villa,Crystal Palace,2,2,3.0,1.3,1.3,3.0
+Fulham,Wolves,1,4,1.0,1.3,1.3,1.0
+Bournemouth,Brighton,1,2,1.6,0.9,0.9,1.6
+Arsenal,Nott'ham Forest,3,0,1.2,0.3,0.3,1.2
+Everton,Brentford,0,0,1.2,1.1,1.1,1.2
+Manchester City,Tottenham,0,4,2.1,2.5,2.5,2.1
+Southampton,Liverpool,2,3,1.3,3.1,3.1,1.3
+Ipswich Town,Manchester Utd,1,1,1.6,0.8,0.8,1.6
+Newcastle Utd,West Ham,0,2,1.6,0.9,0.9,1.6
+Brighton,Southampton,1,1,1.7,1.0,1.0,1.7
+Wolves,Bournemouth,2,4,0.5,3.3,3.3,0.5
+Nott'ham Forest,Ipswich Town,1,0,1.6,0.6,0.6,1.6
+Brentford,Leicester City,4,1,2.4,1.1,1.1,2.4
+Crystal Palace,Newcastle Utd,1,1,1.7,0.0,0.0,1.7
+West Ham,Arsenal,2,5,1.5,3.5,3.5,1.5
+Manchester Utd,Everton,4,0,1.1,0.6,0.6,1.1
+Tottenham,Fulham,1,1,0.8,1.5,1.5,0.8
+Chelsea,Aston Villa,3,0,1.6,1.2,1.2,1.6
+Liverpool,Manchester City,2,0,3.4,0.8,0.8,3.4
+Ipswich Town,Crystal Palace,0,1,0.5,1.6,1.6,0.5
+Leicester City,West Ham,3,1,1.7,3.0,3.0,1.7
+Newcastle Utd,Liverpool,3,3,2.1,1.9,1.9,2.1
+Everton,Wolves,4,0,1.0,0.8,0.8,1.0
+Manchester City,Nott'ham Forest,3,0,2.4,1.0,1.0,2.4
+Southampton,Chelsea,1,5,1.6,5.2,5.2,1.6
+Arsenal,Manchester Utd,2,0,2.1,0.2,0.2,2.1
+Aston Villa,Brentford,3,1,2.4,0.9,0.9,2.4
+Fulham,Brighton,3,1,1.1,1.4,1.4,1.1
+Bournemouth,Tottenham,1,0,3.5,0.9,0.9,3.5
+Aston Villa,Southampton,1,0,2.3,0.3,0.3,2.3
+Crystal Palace,Manchester City,2,2,1.3,1.4,1.4,1.3
+Brentford,Newcastle Utd,4,2,1.2,1.5,1.5,1.2
+Manchester Utd,Nott'ham Forest,2,3,1.6,0.8,0.8,1.6
+Leicester City,Brighton,2,2,1.3,1.5,1.5,1.3
+Ipswich Town,Bournemouth,1,2,1.3,3.2,3.2,1.3
+Fulham,Arsenal,1,1,0.2,1.8,1.8,0.2
+Tottenham,Chelsea,3,4,2.8,2.8,2.8,2.8
+West Ham,Wolves,2,1,1.0,1.4,1.4,1.0
+Liverpool,Fulham,2,2,2.1,1.2,1.2,2.1
+Wolves,Ipswich Town,1,2,1.3,1.1,1.1,1.3
+Newcastle Utd,Leicester City,4,0,3.8,0.2,0.2,3.8
+Arsenal,Everton,0,0,1.2,0.1,0.1,1.2
+Nott'ham Forest,Aston Villa,2,1,1.7,0.4,0.4,1.7
+Brighton,Crystal Palace,1,3,1.0,2.2,2.2,1.0
+Manchester City,Manchester Utd,1,2,0.9,2.1,2.1,0.9
+Southampton,Tottenham,0,5,0.8,2.3,2.3,0.8
+Chelsea,Brentford,2,1,2.2,1.6,1.6,2.2
+Bournemouth,West Ham,1,1,1.9,2.1,2.1,1.9
+Aston Villa,Manchester City,2,1,1.6,1.0,1.0,1.6
+Ipswich Town,Newcastle Utd,0,4,0.7,2.3,2.3,0.7
+Brentford,Nott'ham Forest,0,2,0.7,0.9,0.9,0.7
+West Ham,Brighton,1,1,1.2,0.9,0.9,1.2
+Crystal Palace,Arsenal,1,5,1.6,2.5,2.5,1.6
+Manchester Utd,Bournemouth,0,3,2.2,1.6,1.6,2.2
+Leicester City,Wolves,0,3,0.8,1.1,1.1,0.8
+Everton,Chelsea,0,0,1.0,1.2,1.2,1.0
+Fulham,Southampton,0,0,0.9,0.3,0.3,0.9
+Tottenham,Liverpool,3,6,1.3,5.6,5.6,1.3
+Manchester City,Everton,1,1,2.1,0.7,0.7,2.1
+Southampton,West Ham,0,1,1.4,1.7,1.7,1.4
+Newcastle Utd,Aston Villa,3,0,2.7,0.3,0.3,2.7
+Nott'ham Forest,Tottenham,1,0,1.1,0.9,0.9,1.1
+Bournemouth,Crystal Palace,0,0,1.4,0.4,0.4,1.4
+Chelsea,Fulham,1,2,1.1,1.8,1.8,1.1
+Wolves,Manchester Utd,2,0,0.9,0.4,0.4,0.9
+Liverpool,Leicester City,3,1,2.0,0.3,0.3,2.0
+Brighton,Brentford,0,0,1.3,1.1,1.1,1.3
+Arsenal,Ipswich Town,1,0,1.8,0.2,0.2,1.8
+Leicester City,Manchester City,0,2,1.3,1.3,1.3,1.3
+Everton,Nott'ham Forest,0,2,0.9,1.5,1.5,0.9
+Tottenham,Wolves,2,2,2.2,0.7,0.7,2.2
+Fulham,Bournemouth,2,2,1.1,2.0,2.0,1.1
+Crystal Palace,Southampton,2,1,2.0,0.9,0.9,2.0
+West Ham,Liverpool,0,5,0.4,3.1,3.1,0.4
+Aston Villa,Brighton,2,2,1.8,1.1,1.1,1.8
+Ipswich Town,Chelsea,2,0,1.6,2.0,2.0,1.6
+Manchester Utd,Newcastle Utd,0,2,0.8,1.9,1.9,0.8
+Brentford,Arsenal,1,3,0.3,1.9,1.9,0.3
+Tottenham,Newcastle Utd,1,2,0.9,2.5,2.5,0.9
+Aston Villa,Leicester City,2,1,1.4,0.4,0.4,1.4
+Bournemouth,Everton,1,0,1.8,0.7,0.7,1.8
+Crystal Palace,Chelsea,1,1,1.1,1.2,1.2,1.1
+Southampton,Brentford,0,5,0.3,4.4,4.4,0.3
+Manchester City,West Ham,4,1,1.9,1.4,1.4,1.9
+Brighton,Arsenal,1,1,1.5,0.9,0.9,1.5
+Fulham,Ipswich Town,2,2,2.2,1.5,1.5,2.2
+Liverpool,Manchester Utd,2,2,2.7,1.0,1.0,2.7
+Wolves,Nott'ham Forest,0,3,1.5,2.1,2.1,1.5
+West Ham,Fulham,3,2,1.0,1.7,1.7,1.0
+Chelsea,Bournemouth,2,2,2.5,1.2,1.2,2.5
+Brentford,Manchester City,2,2,2.5,2.2,2.2,2.5
+Nott'ham Forest,Liverpool,1,1,0.3,2.0,2.0,0.3
+Leicester City,Crystal Palace,0,2,1.7,1.8,1.8,1.7
+Everton,Aston Villa,0,1,1.1,1.2,1.2,1.1
+Newcastle Utd,Wolves,3,0,2.1,1.6,1.6,2.1
+Arsenal,Tottenham,2,1,1.4,0.8,0.8,1.4
+Ipswich Town,Brighton,0,2,0.3,1.0,1.0,0.3
+Manchester Utd,Southampton,3,1,3.4,1.4,1.4,3.4
+Newcastle Utd,Bournemouth,1,4,0.8,2.0,2.0,0.8
+Leicester City,Fulham,0,2,0.6,2.0,2.0,0.6
+West Ham,Crystal Palace,0,2,0.3,1.3,1.3,0.3
+Brentford,Liverpool,0,2,0.7,3.4,3.4,0.7
+Arsenal,Aston Villa,2,2,1.3,1.0,1.0,1.3
+Everton,Tottenham,3,2,1.8,1.1,1.1,1.8
+Manchester Utd,Brighton,1,3,1.5,1.9,1.9,1.5
+Nott'ham Forest,Southampton,3,2,1.8,0.9,0.9,1.8
+Ipswich Town,Manchester City,0,6,0.5,3.0,3.0,0.5
+Chelsea,Wolves,3,1,3.1,0.8,0.8,3.1
+Southampton,Newcastle Utd,1,3,0.8,2.9,2.9,0.8
+Brighton,Everton,0,1,0.7,0.8,0.8,0.7
+Liverpool,Ipswich Town,4,1,2.0,0.5,0.5,2.0
+Bournemouth,Nott'ham Forest,5,0,1.7,1.0,1.0,1.7
+Wolves,Arsenal,0,1,0.7,1.0,1.0,0.7
+Manchester City,Chelsea,3,1,2.2,1.8,1.8,2.2
+Crystal Palace,Brentford,1,2,1.1,1.3,1.3,1.1
+Tottenham,Leicester City,1,2,1.0,1.6,1.6,1.0
+Aston Villa,West Ham,1,1,0.9,1.3,1.3,0.9
+Fulham,Manchester Utd,0,1,0.7,0.3,0.3,0.7
+Nott'ham Forest,Brighton,7,0,3.3,0.9,0.9,3.3
+Everton,Leicester City,4,0,2.5,0.3,0.3,2.5
+Newcastle Utd,Fulham,1,2,0.8,1.6,1.6,0.8
+Bournemouth,Liverpool,0,2,1.6,2.5,2.5,1.6
+Ipswich Town,Southampton,1,2,1.8,0.9,0.9,1.8
+Wolves,Aston Villa,2,0,1.6,0.4,0.4,1.6
+Manchester Utd,Crystal Palace,0,2,1.1,2.6,2.6,1.1
+Brentford,Tottenham,0,2,2.1,0.8,0.8,2.1
+Arsenal,Manchester City,5,1,1.0,0.8,0.8,1.0
+Chelsea,West Ham,2,1,1.6,1.2,1.2,1.6
+Everton,Liverpool,2,2,1.0,0.6,0.6,1.0
+Brighton,Chelsea,3,0,1.4,0.5,0.5,1.4
+Leicester City,Arsenal,0,2,0.2,1.4,1.4,0.2
+Fulham,Nott'ham Forest,2,1,2.1,0.4,0.4,2.1
+Manchester City,Newcastle Utd,4,0,1.9,0.5,0.5,1.9
+Southampton,Bournemouth,1,3,0.8,1.2,1.2,0.8
+Aston Villa,Ipswich Town,1,1,2.4,0.4,0.4,2.4
+West Ham,Brentford,0,1,0.8,1.6,1.6,0.8
+Crystal Palace,Everton,1,2,1.6,0.9,0.9,1.6
+Liverpool,Wolves,2,1,1.7,1.5,1.5,1.7
+Tottenham,Manchester Utd,1,0,2.2,1.5,1.5,2.2
+Aston Villa,Liverpool,2,2,0.6,2.5,2.5,0.6
+Leicester City,Brentford,0,4,0.5,1.5,1.5,0.5
+Everton,Manchester Utd,2,2,1.6,0.4,0.4,1.6
+Fulham,Crystal Palace,0,2,0.2,1.3,1.3,0.2
+Bournemouth,Wolves,0,1,0.9,2.0,2.0,0.9
+Ipswich Town,Tottenham,1,4,1.1,1.7,1.7,1.1
+Arsenal,West Ham,0,1,1.2,1.1,1.1,1.2
+Southampton,Brighton,0,4,0.1,3.9,3.9,0.1
+Aston Villa,Chelsea,2,1,2.3,2.3,2.3,2.3
+Newcastle Utd,Nott'ham Forest,4,3,2.9,1.7,1.7,2.9
+Manchester City,Liverpool,0,2,0.6,0.7,0.7,0.6
+Brighton,Bournemouth,2,1,2.4,1.5,1.5,2.4
+Crystal Palace,Aston Villa,4,1,4.3,0.4,0.4,4.3
+Wolves,Fulham,1,2,1.3,1.7,1.7,1.3
+Chelsea,Southampton,4,0,2.4,0.7,0.7,2.4
+Tottenham,Manchester City,0,1,1.3,2.1,2.1,1.3
+Nott'ham Forest,Arsenal,0,0,0.4,1.0,1.0,0.4
+Manchester Utd,Ipswich Town,3,2,0.7,1.4,1.4,0.7
+Brentford,Everton,1,1,1.4,1.5,1.5,1.4
+Liverpool,Newcastle Utd,2,0,1.7,0.2,0.2,1.7
+West Ham,Leicester City,2,0,1.3,0.4,0.4,1.3
+Nott'ham Forest,Manchester City,1,0,0.7,0.9,0.9,0.7
+Liverpool,Southampton,3,1,3.9,0.4,0.4,3.9
+Brighton,Fulham,2,1,1.5,0.9,0.9,1.5
+Crystal Palace,Ipswich Town,1,0,3.2,1.5,1.5,3.2
+Brentford,Aston Villa,0,1,0.8,1.3,1.3,0.8
+Wolves,Everton,1,1,0.8,1.2,1.2,0.8
+Chelsea,Leicester City,1,0,1.7,0.1,0.1,1.7
+Tottenham,Bournemouth,2,2,1.5,2.2,2.2,1.5
+Manchester Utd,Arsenal,1,1,1.5,1.6,1.6,1.5
+West Ham,Newcastle Utd,0,1,0.7,1.4,1.4,0.7
+Everton,West Ham,1,1,1.0,0.8,0.8,1.0
+Southampton,Wolves,1,2,1.3,0.4,0.4,1.3
+Ipswich Town,Nott'ham Forest,2,4,0.4,1.5,1.5,0.4
+Manchester City,Brighton,2,2,1.7,2.0,2.0,1.7
+Bournemouth,Brentford,1,2,1.6,0.8,0.8,1.6
+Arsenal,Chelsea,1,0,0.7,0.4,0.4,0.7
+Fulham,Tottenham,2,0,1.0,0.9,0.9,1.0
+Leicester City,Manchester Utd,0,3,1.0,0.9,0.9,1.0
+Arsenal,Fulham,2,1,2.2,1.0,1.0,2.2
+Wolves,West Ham,1,0,1.2,1.3,1.3,1.2
+Nott'ham Forest,Manchester Utd,1,0,0.5,1.6,1.6,0.5
+Newcastle Utd,Brentford,2,1,1.3,1.5,1.5,1.3
+Manchester City,Leicester City,2,0,2.2,0.1,0.1,2.2
+Southampton,Crystal Palace,1,1,0.7,0.7,0.7,0.7
+Bournemouth,Ipswich Town,1,2,1.8,1.2,1.2,1.8
+Brighton,Aston Villa,0,3,0.9,1.2,1.2,0.9
+Liverpool,Everton,1,0,1.5,0.9,0.9,1.5
+Chelsea,Tottenham,1,0,1.0,0.9,0.9,1.0
+Everton,Arsenal,1,1,1.1,1.8,1.8,1.1
+Crystal Palace,Brighton,2,1,0.6,1.0,1.0,0.6
+Ipswich Town,Wolves,1,2,0.8,2.6,2.6,0.8
+West Ham,Bournemouth,2,2,0.7,2.1,2.1,0.7
+Aston Villa,Nott'ham Forest,2,1,3.0,1.5,1.5,3.0
+Fulham,Liverpool,3,2,0.7,1.5,1.5,0.7
+Brentford,Chelsea,0,0,1.1,1.2,1.2,1.1
+Tottenham,Southampton,3,1,2.1,1.0,1.0,2.1
+Manchester Utd,Manchester City,0,0,0.9,0.5,0.5,0.9
+Leicester City,Newcastle Utd,0,3,0.5,3.2,3.2,0.5
+Manchester City,Crystal Palace,5,2,3.7,1.8,1.8,3.7
+Brighton,Leicester City,2,2,3.8,1.5,1.5,3.8
+Southampton,Aston Villa,0,3,0.3,3.0,3.0,0.3
+Nott'ham Forest,Everton,0,1,0.5,1.4,1.4,0.5
+Arsenal,Brentford,1,1,1.0,0.2,0.2,1.0
+Liverpool,West Ham,2,1,1.8,1.4,1.4,1.8
+Chelsea,Ipswich Town,2,2,2.2,1.1,1.1,2.2
+Wolves,Tottenham,4,2,2.4,2.0,2.0,2.4
+Newcastle Utd,Manchester Utd,4,1,2.2,0.7,0.7,2.2
+Bournemouth,Fulham,1,0,1.4,1.0,1.0,1.4
+Newcastle Utd,Crystal Palace,5,0,1.5,2.0,2.0,1.5
+Everton,Manchester City,0,2,0.9,2.0,2.0,0.9
+West Ham,Southampton,1,1,0.9,0.6,0.6,0.9
+Crystal Palace,Bournemouth,0,0,0.4,0.7,0.7,0.4
+Brentford,Brighton,4,2,2.1,1.4,1.4,2.1
+Aston Villa,Newcastle Utd,4,1,2.2,1.0,1.0,2.2
+Fulham,Chelsea,1,2,0.3,0.9,0.9,0.3
+Ipswich Town,Arsenal,0,4,0.2,2.4,2.4,0.2
+Manchester Utd,Wolves,0,1,1.3,0.2,0.2,1.3
+Leicester City,Liverpool,0,1,0.3,2.5,2.5,0.3
+Tottenham,Nott'ham Forest,1,2,2.1,0.5,0.5,2.1
+Manchester City,Aston Villa,2,1,1.3,1.8,1.8,1.3
+Arsenal,Crystal Palace,2,2,1.2,1.7,1.7,1.2
+Chelsea,Everton,1,0,0.8,0.4,0.4,0.8
+Brighton,West Ham,3,2,1.3,1.3,1.3,1.3
+Wolves,Leicester City,3,0,2.0,1.1,1.1,2.0
+Southampton,Fulham,1,2,0.6,2.4,2.4,0.6
+Newcastle Utd,Ipswich Town,3,0,2.4,0.1,0.1,2.4
+Bournemouth,Manchester Utd,1,1,0.5,2.3,2.3,0.5
+Liverpool,Tottenham,5,1,2.2,0.5,0.5,2.2
+Nott'ham Forest,Brentford,0,2,0.9,1.3,1.3,0.9
+Manchester City,Wolves,1,0,0.7,0.4,0.4,0.7
+Aston Villa,Fulham,1,0,1.0,0.9,0.9,1.0
+Leicester City,Southampton,2,0,1.4,0.5,0.5,1.4
+Everton,Ipswich Town,2,2,0.6,0.8,0.8,0.6
+Arsenal,Bournemouth,1,2,1.4,0.9,0.9,1.4
+Brighton,Newcastle Utd,1,1,0.7,1.7,1.7,0.7
+West Ham,Tottenham,1,1,0.8,0.8,0.8,0.8
+Brentford,Manchester Utd,4,3,2.8,1.5,1.5,2.8
+Chelsea,Liverpool,3,1,3.1,1.0,1.0,3.1
+Crystal Palace,Nott'ham Forest,1,1,2.3,0.7,0.7,2.3
+Ipswich Town,Brentford,0,1,0.9,1.4,1.4,0.9
+Fulham,Everton,1,3,0.8,1.1,1.1,0.8
+Wolves,Brighton,0,2,0.9,1.6,1.6,0.9
+Southampton,Manchester City,0,0,0.1,1.7,1.7,0.1
+Bournemouth,Aston Villa,0,1,0.8,1.0,1.0,0.8
+Newcastle Utd,Chelsea,2,0,1.6,0.7,0.7,1.6
+Nott'ham Forest,Leicester City,2,2,1.3,1.1,1.1,1.3
+Tottenham,Crystal Palace,0,2,0.7,3.4,3.4,0.7
+Manchester Utd,West Ham,0,2,2.1,1.7,1.7,2.1
+Liverpool,Arsenal,2,2,2.4,2.6,2.6,2.4
+Aston Villa,Tottenham,2,0,1.4,0.5,0.5,1.4
+Chelsea,Manchester Utd,1,0,0.8,0.3,0.3,0.8
+Everton,Southampton,2,0,2.7,1.2,1.2,2.7
+West Ham,Nott'ham Forest,1,2,1.1,1.9,1.9,1.1
+Brentford,Fulham,2,3,2.5,1.0,1.0,2.5
+Leicester City,Ipswich Town,2,0,0.8,1.4,1.4,0.8
+Arsenal,Newcastle Utd,1,0,0.6,1.5,1.5,0.6
+Brighton,Liverpool,3,2,2.2,2.2,2.2,2.2
+Manchester City,Bournemouth,3,1,1.5,1.1,1.1,1.5
+Crystal Palace,Wolves,4,2,1.7,1.4,1.4,1.7
+Manchester Utd,Aston Villa,2,0,2.9,0.4,0.4,2.9
+Ipswich Town,West Ham,1,3,0.7,1.1,1.1,0.7
+Wolves,Brentford,1,1,1.0,1.4,1.4,1.0
+Southampton,Arsenal,1,2,0.6,2.3,2.3,0.6
+Liverpool,Crystal Palace,1,1,2.1,1.8,1.8,2.1
+Nott'ham Forest,Chelsea,0,1,1.2,1.1,1.1,1.2
+Fulham,Manchester City,0,2,1.3,3.0,3.0,1.3
+Newcastle Utd,Everton,0,1,1.2,1.2,1.2,1.2
+Bournemouth,Leicester City,2,0,1.6,0.3,0.3,1.6
+Tottenham,Brighton,1,4,2.0,2.2,2.2,2.0
