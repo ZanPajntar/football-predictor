@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 """
-Scrape FBref Premier-League 2024-25 z uporabo Seleniuma. (v3.0 - KONČNA VERZIJA)
-==================================================================================
+Scrape FBref Premier-League 2024-25 z uporabo Seleniuma. (v2.4 - POTRJENA TESTNA VERZIJA)
+==========================================================================================
 
 Kaj počne:
 -----------
-1. Z uporabo Seleniuma prenese glavni razpored sezone za vse tekme.
-2. Za vsako odigrano tekmo odpre stran "Match Report".
-3. Pravilno izlušči število rumenih kartonov za domačo in gostujočo ekipo.
-4. Vse zbrane podatke shrani v CSV datoteko 'scrape_pl_24_25_final_with_cards.csv'.
+1. Z uporabo Seleniuma prenese glavni razpored sezone.
+2. **OBDELA SAMO PRVE 3 TEKME ZA HITRO TESTIRANJE.**
+3. Z uporabo potrjene logike iz HTML kode pravilno izlušči rumene kartone (išče v <tfoot>).
+4. Vse podatke shrani v testno CSV datoteko.
 
 Odvisnosti:
 -----------
@@ -38,15 +38,14 @@ from webdriver_manager.chrome import ChromeDriverManager
 BASE_URL = "https://fbref.com"
 SCHEDULE_URL = f"{BASE_URL}/en/comps/9/schedule/Premier-League-Scores-and-Fixtures"
 
-# Spremenljivka za omejitev (None pomeni brez omejitve)
-LIMIT_MATCHES = None  # <-- NASTAVLJENO ZA OBDELAVO VSEH TEKEM
+LIMIT_MATCHES = 3  # Omejitev za testiranje
 
 USER_AGENTS = [
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
 ]
 
-DELAY_RANGE = (3.0, 7.0)  # Malce večja pavza za daljši tek
+DELAY_RANGE = (3.0, 6.0)
 BACKOFF_RANGE = (20.0, 40.0)
 MAX_RETRIES = 4
 TIMEOUT = 30
@@ -156,6 +155,7 @@ def fetch_match_cards(url: str) -> Tuple[int | None, int | None]:
         
         home_table, away_table = player_stats_tables[0], player_stats_tables[1]
 
+        # POTRJEN IN PRAVILEN SELEKTOR: Išče v nogi tabele (tfoot)
         home_cards_td = home_table.select_one("tfoot td[data-stat='cards_yellow']")
         away_cards_td = away_table.select_one("tfoot td[data-stat='cards_yellow']")
 
@@ -198,8 +198,7 @@ def main() -> None:
 
         final_cols = ["matchweek_number", "match_id", "date", "home_team", "away_team", "home_goals", "away_goals", "home_xG", "away_xG", "home_xGA", "away_xGA", "home_crdY", "away_crdY"]
         final_schedule = schedule_to_process.drop(columns=['match_report_url'], errors='ignore')[final_cols]
-        
-        out_file = "scrape_pl_24_25_final_with_cards.csv"
+        out_file = f"scrape_pl_24_25_TEST_{LIMIT_MATCHES}_matches.csv"
         final_schedule.to_csv(out_file, index=False)
         eprint(f"\n[KONČANO] Podatki za {len(final_schedule)} tekem so shranjeni v datoteko '{out_file}'.")
 
